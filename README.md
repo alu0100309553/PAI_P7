@@ -1,1 +1,1 @@
-# PAI_P7
+# Práctica 7, Programación de Aplicaciones Interactivas. Gráficos en Java.
